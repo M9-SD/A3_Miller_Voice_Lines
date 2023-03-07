@@ -9,6 +9,8 @@ CLEAR - All the clips with clear voice recordings.
 
 RADIO - All the clips with radio effects, processing, and muffling.
 
+ELEVENLABS - 25 of the longest clear clips.
+
 Some have been converted from the original .ogg file type to .wav for voice cloning purposes.
 
 Compiled version: https://www.youtube.com/watch?v=1NsmsOjBzJU
