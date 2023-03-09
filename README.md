@@ -13,4 +13,12 @@ ELEVENLABS - 25 of the longest clear clips.
 
 Some have been converted from the original .ogg file type to .wav for voice cloning purposes.
 
-Compiled version: https://www.youtube.com/watch?v=1NsmsOjBzJU
+Compilation of voice lines: 
+
+https://www.youtube.com/watch?v=1NsmsOjBzJU
+
+# VOICE CLONING EXAMPLES:
+
+https://www.youtube.com/watch?v=ndklugC1Was
+
+https://www.youtube.com/watch?v=Td_nUF3-pk8
