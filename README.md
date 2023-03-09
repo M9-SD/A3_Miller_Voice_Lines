@@ -1,7 +1,7 @@
 # A3_Miller_Voice_Lines
 A collection of sound files from Arma 3, containing voice lines of Captain Scott Miller of the British Royal Navy. 
 
-The sound files have been separated into three categories:
+The sound files have been separated into these categories:
 
 ALL - All 910 that I could find in the game files.
 
