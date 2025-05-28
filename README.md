@@ -37,3 +37,6 @@ https://github.com/SWivid/F5-TTS
 I trained it on all the CLEAR voice lines from Miller. 
 I added the data along with the the fine-tuned model.
 
+https://huggingface.co/datasets/M9-SD/miller_big_data_pinyin
+
+https://huggingface.co/M9-SD/miller_big_data
